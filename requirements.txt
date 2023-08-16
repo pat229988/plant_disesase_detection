@@ -1,0 +1,5 @@
+sklearn
+numpy
+Pillow==9.2.0
+pandas==1.4.3
+keras==2.11.0
